@@ -23,6 +23,10 @@ I hope you enjoy exploring my portfolio as much as I enjoyed creating it.
 Feedback is always welcome—I'm always looking to improve and grow!
 
 
+<!-- **Table of Content:** -->
+
+
+
 
 
 
