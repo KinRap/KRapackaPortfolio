@@ -1,7 +1,7 @@
 ---
 title: Unresponsive SME
 layout: default
-nav_order: 11
+nav_order: 10
 --- 
 
 <img src="../Images/beprepared.jpg" alt="Unresponsive SME" width="100%">
@@ -17,7 +17,7 @@ The article explains strategies for handling unresponsive SMEs, providing practi
 **Technologies & Tools Used:**
 
 - Markdown: I used Markdown to write and format the article, allowing for clean, readable content that's well-organized for the web.
-- GitHub Pages: The article was published on GitHub Pages, demonstrating my ability to manage version control and publish content online for easy access. 
+- GitHub Pages: The article was published on GitHub Pages, demonstrating my ability to manage version control and publish content online for easy access.
 
 **Key Skills Demonstrated:**
 
