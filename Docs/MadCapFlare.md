@@ -12,13 +12,13 @@ This project was a technical documentation and web styling showcase, where I cre
 
 **<a href="https://kinrap.github.io/MadCapFL/Content/Home.htm" target="_blank"> MadCap Flare - Nicholas Sparks Reader's Guide</a>**
 
-Technologies & Tools Used:
+**Technologies & Tools Used:**
 
 - MadCap Flare: I used MadCap Flare for topic-based authoring, allowing me to modularize content and create seamless navigation between different sections. I leveraged Flare’s features to implement breadcrumbs, sidebars, and responsive design, ensuring an intuitive user experience.
 - CSS Customization: To enhance the look and feel, I implemented custom CSS, adjusting fonts, color schemes, layouts, and button styles. These modifications allowed me to tailor the appearance to a specific aesthetic, providing an attractive, user-centered interface.
 - GitHub Publishing: I managed the entire project’s version control and publication on GitHub, which allowed for easy access, collaboration, and version tracking. [Include link to GitHub repository]
 
-Key Technical Skills Demonstrated:
+**Key Technical Skills Demonstrated**:
 
 - Content Structuring: Through MadCap Flare, I organized the content into topics and subtopics, utilizing best practices in technical documentation to make the guide modular, searchable, and logically structured.
 - Responsive Design: Using MadCap Flare and CSS, I ensured that the site is fully responsive, providing an optimal viewing experience across devices by adapting layouts, images, and fonts based on screen size.
