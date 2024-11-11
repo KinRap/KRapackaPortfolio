@@ -5,7 +5,7 @@ nav_order: 4
 --- 
 <img src="../Images/Header.png" alt="Generative AI for Technical Writing" width="100%">
 
-# **Diploma Work: Generative AI for Technical Writing**
+# **Generative AI for Technical Writing**
 
 **<a href="https://kinrap.github.io/GenerativeAIForTechWriters/" target="_blank"> Generative AI for Technical Writing</a>**
 
