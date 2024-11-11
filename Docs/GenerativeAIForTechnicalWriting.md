@@ -5,8 +5,9 @@ nav_order: 4
 --- 
 <img src="../Images/Header.png" alt="Generative AI for Technical Writing" width="100%">
 
-# **Diploma Work: Generative AI for Technical Writers**
+# **Diploma Work: Generative AI for Technical Writing**
 
+**<a href="https://kinrap.github.io/GenerativeAIForTechWriters/" target="_blank"> Generative AI for Technical Writing</a>**
 
 As part of my studies in Technical Communication, I conducted in-depth research and created a comprehensive documentation project exploring the impact of Generative AI on the field of technical writing. This work not only demonstrates my ability to produce clear, structured documentation but also highlights my skills in using modern web technologies such as Markdown, HTML, CSS, and XML to present content in an engaging and accessible way.
 
