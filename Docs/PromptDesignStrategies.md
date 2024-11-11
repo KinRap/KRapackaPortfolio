@@ -4,11 +4,13 @@ layout: default
 nav_order: 9
 --- 
 
-<img src="../Images/PDSExamples.png" alt="Prompt Design Strategies - Examples Logo" width="100%">
+<img src="../Images/PDSExamples.png" alt="Prompt Design Strategies - Examples" width="100%">
 
 # **Prompt Design Strategies - Examples**
 
 This project is a comprehensive study on prompt design strategies for Generative AI tools. Developed as the capstone of my diploma project in technical communication, this guide offers detailed insights and examples on designing effective prompts to maximize the accuracy and relevance of responses from generative AI models. I used a range of tools and technologies, including Markdown, XML, HTML, CSS, Snagit, GIMP, and Just the Docs, to create a polished, user-focused guide that is both visually engaging and informative.
+
+**<a href="https://kinrap.github.io/GenerativeAIForTechWriters/Docs/WritingInstruction.html" target="_blank"> Prompt Design Strategies - Examples</a>**
 
 The project explores best practices in prompt engineering by showing how different generative AI models—ChatGPT, Gemini, and Copilot—respond to variations in prompt structure, style, and specificity. It provides examples and guidelines for creating prompts tailored to specific tasks, such as summarization, creative generation, and problem-solving, with detailed explanations of why certain prompt structures work better than others.
 
