@@ -1,7 +1,7 @@
 ---
 title: About Me
 layout: default
-nav_order: 1
+nav_order: 2
 --- 
 
 <img src="../Images/2.png" alt="About Me Header" width="100%"/> 
