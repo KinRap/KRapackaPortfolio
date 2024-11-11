@@ -21,7 +21,7 @@ Technologies & Tools Used:
 Key Technical Skills Demonstrated:
 
 - Content Structuring: Through MadCap Flare, I organized the content into topics and subtopics, utilizing best practices in technical documentation to make the guide modular, searchable, and logically structured.
-- Responsive Design: Using Flare and CSS, I ensured that the site is fully responsive, providing an optimal viewing experience across devices by adapting layouts, images, and fonts based on screen size.
+- Responsive Design: Using MadCap Flare and CSS, I ensured that the site is fully responsive, providing an optimal viewing experience across devices by adapting layouts, images, and fonts based on screen size.
 - Advanced CSS Styling: I customized the look of the project with advanced CSS techniques, including pseudo-elements, flexbox layouts, and custom color schemes. This allowed me to achieve a polished, consistent style that enhances readability and user engagement.
 - Repository Management on GitHub: By publishing the project on GitHub, I demonstrated my ability to handle version control, track changes, and manage project files in a collaborative, open-source environment.
 
